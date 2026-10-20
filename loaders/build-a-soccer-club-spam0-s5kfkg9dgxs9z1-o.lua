@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/build-a-soccer-club-spam0-s5kfkg9dgxs9z1.lua"))()
