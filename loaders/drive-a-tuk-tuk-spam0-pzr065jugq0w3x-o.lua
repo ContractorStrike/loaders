@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/drive-a-tuk-tuk-spam0-pzr065jugq0w3x.lua"))()
