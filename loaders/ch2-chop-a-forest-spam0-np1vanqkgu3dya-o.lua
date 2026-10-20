@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/ch2-chop-a-forest-spam0-np1vanqkgu3dya.lua"))()
