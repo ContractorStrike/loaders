@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/catch-the-artist-spam2-pcs5sxu4ihepzb.lua"))()
