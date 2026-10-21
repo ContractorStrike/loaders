@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/clean-crew-class-skins-spam3-lqoopfpfik12f7.lua"))()
