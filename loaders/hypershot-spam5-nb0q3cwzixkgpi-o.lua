@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/hypershot-spam5-nb0q3cwzixkgpi.lua"))()
