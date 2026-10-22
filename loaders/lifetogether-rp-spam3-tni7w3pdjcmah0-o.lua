@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/lifetogether-rp-spam3-tni7w3pdjcmah0.lua"))()
