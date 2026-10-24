@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/huss-valley-spam4-wn9gwvxlmctcyr.lua"))()
