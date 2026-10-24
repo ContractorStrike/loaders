@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/doors-spam4-efuqq5trmb4f0w.lua"))()
