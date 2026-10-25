@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/nuke-a-country-spam6-qfff8qcho7ca0z.lua"))()
