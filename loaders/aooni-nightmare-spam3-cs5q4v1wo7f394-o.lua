@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/aooni-nightmare-spam3-cs5q4v1wo7f394.lua"))()
