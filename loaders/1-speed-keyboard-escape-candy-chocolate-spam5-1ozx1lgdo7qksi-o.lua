@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/1-speed-keyboard-escape-candy-chocolate-spam5-1ozx1lgdo7qksi.lua"))()
