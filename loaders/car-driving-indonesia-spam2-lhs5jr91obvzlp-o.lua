@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/car-driving-indonesia-spam2-lhs5jr91obvzlp.lua"))()
