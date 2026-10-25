@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/rebirth-champions-ultimate-spam7-knsjf22qo27gvf.lua"))()
