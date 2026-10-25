@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/sell-lemons-spam7-smfxpuuooan9pz.lua"))()
